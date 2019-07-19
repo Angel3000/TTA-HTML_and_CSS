@@ -1,0 +1,13 @@
+/* comment code */
+
+p {
+	color: green;
+	background-color: cyan;
+	font-size: 5;
+	font-style: italic;
+	text-align: center;
+	}
+
+h2 {
+  text-shadow: 2px 2px #ff0000;
+}
